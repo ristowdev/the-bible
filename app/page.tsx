@@ -6,7 +6,6 @@ import Guarantee from "@/components/home/Guarantee";
 import HeroSection from "@/components/home/HeroSection";
 import Products from "@/components/home/Products";
 import TheBible from "@/components/home/TheBible";
-import Image from "next/image";
 
 export default function Home() {
   return (
